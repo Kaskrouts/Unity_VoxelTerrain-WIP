@@ -14,3 +14,5 @@ TO-DO'S
 * dynamic terrain generation : the world should be able to update itself dynamically as the camera moves around.
 * Caves : the program lacks caves, since i chose, for the moment, to fill each gap with water
 * more blocks variety : it currenty has only grass (for surfaces) and water (for ravines/holes)
+
+*image example is provided in the repo*
